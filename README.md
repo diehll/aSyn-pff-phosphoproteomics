@@ -15,10 +15,6 @@ Analysis code accompanying:
 > doi:[10.1101/2025.01.24.634820](https://doi.org/10.1101/2025.01.24.634820)
 > &middot; PMID [39896549](https://pubmed.ncbi.nlm.nih.gov/39896549/)
 > &middot; PMCID [PMC11785254](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11785254/)
-
-The peer-reviewed version is under consideration at *Nature Communications*;
-this citation will be updated to the journal version on acceptance.
-
 ---
 
 Two standalone R analyses, each runnable from a fresh clone with no
